@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UTDI</string>
+    <string name="app_info">Rekayasa Perangkat Lunak Aplikasi</string>
+    <string name="matkul_name_1">Pengantar Big Data</string>
+    <string name="matkul_name_2">Praktikum Pengantar Big Data</string>
+    <string name="matkul_name_3">Pemrograman Native Mobile</string>
+    <string name="matkul_name_4">Praktikum Pemrograman Native Mobile</string>
+    <string name="matkul_name_5">Proyek 3</string>
+    <string name="matkul_name_6">Pemrograman Web Lanjut</string>
+    <string name="matkul_name_7">Praktikum Pemrograman Web Lanjut</string>
+    <string name="matkul_name_8">Pendidikan Pancasila</string>
+    <string name="matkul_name_9">Etika Profesi</string>
+    <string name="matkul_description_1">Mata Kuliah tentang Big Data</string>
+    <string name="matkul_description_2">Mata Kuliah Praktikum tentang Big Data</string>
+    <string name="matkul_description_3">Mata Kuliah tentang Android Studio dengan Kotlin</string>
+    <string name="matkul_description_4">Mata Kuliah Praktikum tentang Android Studio dengan Kotlin</string>
+    <string name="matkul_description_5">Mata Kuliah Persiapan Tugas Akhir</string>
+    <string name="matkul_description_6">Mata Kuliah tentang Pemrograman Website</string>
+    <string name="matkul_description_7">Mata Kuliah Praktikum tentang Pemrograman Website</string>
+    <string name="matkul_description_8">Mata Kuliah tentang Pancasila</string>
+    <string name="matkul_description_9">Mata Kuliah tentang Beretika  dalam Profesi</string>
+    <string name="sks">SKS:</string>
+    <string name="banyak_sks">%d SKS</string>
+    <string name="expand_button_content_description">Lihat Lebih banyak atau sedikit Informasi.</string>
+</resources>
